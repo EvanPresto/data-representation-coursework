@@ -1,1 +1,32 @@
-{"time": {"updated": "Oct 7, 2023 20:20:00 UTC", "updatedISO": "2023-10-07T20:20:00+00:00", "updateduk": "Oct 7, 2023 at 21:20 BST"}, "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org", "chartName": "Bitcoin", "bpi": {"USD": {"code": "USD", "symbol": "&#36;", "rate": "27,906.8440", "description": "United States Dollar", "rate_float": 27906.844}, "GBP": {"code": "GBP", "symbol": "&pound;", "rate": "23,318.7356", "description": "British Pound Sterling", "rate_float": 23318.7356}, "EUR": {"code": "EUR", "symbol": "&euro;", "rate": "27,185.3404", "description": "Euro", "rate_float": 27185.3404}}}
+{
+    "time": {
+        "updated": "Oct 7, 2023 20:13:00 UTC",
+        "updatedISO": "2023-10-07T20:13:00+00:00",
+        "updateduk": "Oct 7, 2023 at 21:13 BST"
+    },
+    "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+    "chartName": "Bitcoin",
+    "bpi": {
+        "USD": {
+            "code": "USD",
+            "symbol": "&#36;",
+            "rate": "27,908.3472",
+            "description": "United States Dollar",
+            "rate_float": 27908.3472
+        },
+        "GBP": {
+            "code": "GBP",
+            "symbol": "&pound;",
+            "rate": "23,319.9916",
+            "description": "British Pound Sterling",
+            "rate_float": 23319.9916
+        },
+        "EUR": {
+            "code": "EUR",
+            "symbol": "&euro;",
+            "rate": "27,186.8048",
+            "description": "Euro",
+            "rate_float": 27186.8048
+        }
+    }
+}
