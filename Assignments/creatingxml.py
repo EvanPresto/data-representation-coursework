@@ -16,7 +16,7 @@ b1 = etree.SubElement(m1,"Author")
 b1.text="John Jabobs"
 
 b2 = etree.SubElement(m2,"Author")
-b2.text= "Sally Austin"m
+b2.text= "Sally Austin"
 
 f1 = etree.SubElement(m1,"ISBN")
 f1.text = "1234"

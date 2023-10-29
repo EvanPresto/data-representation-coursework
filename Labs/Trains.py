@@ -16,7 +16,7 @@ retrieveTags=['TrainStatus',
 url= "http://api.irishrail.ie/realtime/realtime.asmx/getCurrentTrainsXML"
 #xml url
 page = requests.get(url)
-# setting page equla to get request get method to the specified train xml url 
+# setting page equal to get request get method to the specified train xml url 
 # requests.get(url,params,args)params and arg optional 
 
 doc = parseString(page.content)
